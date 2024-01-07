@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polaiv&label=Profile%20views&color=0e75b6&style=flat" alt="polaiv" /> </p>
 
-- 🔭 I’m currently working on **TELEGRAMM_BOT**
-
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/polaiv](https://github.com/polaiv)
 
