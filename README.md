@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polaiv&label=Profile%20views&color=0e75b6&style=flat" alt="polaiv" /> </p>
 
-- 🌱 I’m currently learning **Python, Rust**
+- 🌱 I’m currently learning **Python, Rust, SQL, C, C++, a bit of frontend developing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/polaiv](https://github.com/polaiv)
 
